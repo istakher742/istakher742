@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 <img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-💡 Hello everyone, I'm pass out graduate with BTech CSE. Who loves exploring new tech, builder of smart solutions & quick hacks. 
+💡 Hello everyone, I’m a B.Tech graduate in CSE. Who loves exploring new tech, builder of smart solutions & quick hacks. 
 
 ✨ I Enjoy collaborating with people who share the same passion.
 
