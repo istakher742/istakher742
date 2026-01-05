@@ -8,14 +8,18 @@
 ![profile count](https://komarev.com/ghpvc/?username=istakher742&color=red)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/istakher742?label=follow&style=social)](https://github.com/istakher742)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
-
+<img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 💡 Hello everyone, I'm pass out graduate with BTech CSE. Who loves exploring new tech, builder of smart solutions & quick hacks. Enjoy collaborating with people who share the same passion.
 
-<img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-
- 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.\
- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/md-istakher-mahmud/) , [Facebook](https://www.facebook.com/istakher.mahmud.2022) , [WhatsApp](https://wa.me/+8801964434212)\
- ✉️ You can shoot me an email at istakhermahmud@gmail.com
+🌱 I'm on track for learning more about Back-end and Artificial Intelligence.
+ 
+### 📫 How to reach me: 
+ 
+ <a href="https://www.linkedin.com/in/md-istakher-mahmud//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+ <a href="https://facebook.com/istakher.mahmud.2022/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white"/></a> &nbsp;
+ <a href="https://wa.me/+8801964434212"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=flat&logo=whatsapp&logoColor=white"/></a>&nbsp;
+  <a href="mailto:istakhermahmud@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+ 
 
 
 ### ⚙️ &nbsp;Languages 
@@ -46,19 +50,25 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
+-----
 
-
-
-<h2 style="margin: 5px 10px;">⚙️ &nbsp;GitHub Analytics</h2> 
-
+<details>	
+   <summary><b>⚙️ GitHub Analytics</b></summary> <br>
+   
 <p align="left">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=istakher742&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=istakher742&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
 <a href="https://github.com/istakher742">
-  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=istakher742&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=istakher742&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
 </p>
 
-
+</details>
 
 -----
-Credits: <a href="https://github.com/istakher742">istakher742 </a>
+
+<p align="center">
+<b> Show some ❤️ by starring some of the repositories!.<br>
+   Credits: <a href="https://github.com/istakher742">istakher742 </a>
+</p>
+
+
