@@ -18,7 +18,7 @@
  
 ### 📫 How to reach me: 
  
- <a href="https://www.linkedin.com/in/md-istakher-mahmud//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+ <a href="https://www.linkedin.com/in/md-istakher-mahmud/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
  <a href="https://facebook.com/istakher.mahmud.2022/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white"/></a> &nbsp;
  <a href="https://wa.me/+8801964434212"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=flat&logo=whatsapp&logoColor=white"/></a>&nbsp;
   <a href="mailto:istakhermahmud@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
