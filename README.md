@@ -5,7 +5,7 @@
 </h1>
 
 
-![profile count](https://komarev.com/ghpvc/?username=istakher742&color=blue)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=istakher742&color=red)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/istakher742?label=follow&style=social)](https://github.com/istakher742)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
