@@ -11,7 +11,7 @@
 
 💡 Hello everyone, I'm pass out graduate with BTech CSE. Who loves exploring new tech, builder of smart solutions & quick hacks. Enjoy collaborating with people who share the same passion.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/istakher Bot.gif">
+<img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
  🌱 I'm on track for learning more about Back-end and Artificial Intelligence.\
  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/md-istakher-mahmud/) , [Facebook](https://www.facebook.com/istakher.mahmud.2022) , [WhatsApp](https://wa.me/+8801964434212)\
