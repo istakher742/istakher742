@@ -21,7 +21,7 @@
  <a href="https://www.linkedin.com/in/md-istakher-mahmud/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
  <a href="https://facebook.com/istakher.mahmud.2022/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white"/></a> &nbsp;
  <a href="https://wa.me/+8801964434212"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=flat&logo=whatsapp&logoColor=white"/></a>&nbsp;
-  <a href="mailto:istakhermahmud@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+ <a href="mailto:istakhermahmud@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
  
 
 
@@ -38,20 +38,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Futter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel)
+
 
 -----
 
