@@ -8,7 +8,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=istakher742&color=red)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/istakher742?label=follow&style=social)](https://github.com/istakher742)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/istakher Bot.gif">
+<img src="https://raw.githubusercontent.com/istakher742/istakher742/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 💡 Hello everyone, I’m a B.Tech graduate in CSE. Who loves exploring new tech, builder of smart solutions & quick hacks. 
 
